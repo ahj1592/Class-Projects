@@ -1,3 +1,5 @@
+/* PINTOS PROJECT 0_2, Operating System, Sogang University */
+
 #include "bitmap.h"
 #include <assert.h>	// Instead of	#include <debug.h>
 #include "limits.h"	// 		#include <limits.h>
