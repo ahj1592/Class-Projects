@@ -1,3 +1,5 @@
+/* PINTOS PROJECT 0_2, Operating System, Sogang University */
+
 #ifndef __LIB_KERNEL_BITMAP_H
 #define __LIB_KERNEL_BITMAP_H
 
