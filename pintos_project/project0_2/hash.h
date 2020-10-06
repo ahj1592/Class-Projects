@@ -1,3 +1,5 @@
+/* PINTOS PROJECT 0_2, Operating System, Sogang University */
+
 #ifndef __LIB_KERNEL_HASH_H
 #define __LIB_KERNEL_HASH_H
 
